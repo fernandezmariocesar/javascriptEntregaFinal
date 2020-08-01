@@ -1,0 +1,20 @@
+h1, h2 {
+	font-family: 'Cairo', sans-serif;
+}
+
+.btn-primary {
+	background: orange;
+}
+
+.btn-primary:disabled {
+	background: #ccc;
+	color:black;
+}
+
+.list-item {
+	list-style: none;
+}
+
+#aside, #checkout {
+	display: none;
+}

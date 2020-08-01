@@ -1,0 +1,48 @@
+[{
+	"id" : "1",
+	"brand" : "Motorola",
+	"model" : "G6 Plus",
+	"description" : "5,9 pulgadas. Android Oreo. 2.2GHz Snapdragon 630",
+	"price" : 29999,
+	"img" : "http://dgmariocesar.000webhostapp.com/javascript/img/01.jpg"
+},
+{
+	"id" : "2",
+	"brand" : "Motorola",
+	"model" : "Z3 Play",
+	"description" : "6 pulgadas. Android Oreo. Snapdragon 636",
+	"price" : 39999,
+	"img" : "http://dgmariocesar.000webhostapp.com/javascript/img/02.jpg"
+},
+{
+	"id" : "3",
+	"brand" : "Samsung",
+	"model" : "Galaxy S10 Plus",
+	"description" : "6,4 pulgadas. Android Oreo. 2.84GHz Snapdragon 855",
+	"price" : 83999,
+	"img" : "http://dgmariocesar.000webhostapp.com/javascript/img/03.jpg"
+},
+{
+	"id" : "4",
+	"brand" : "Samsung",
+	"model" : "Galaxy S20",
+	"description" : "6,2 pulgadas. Android Oreo. Snapdragon 865.",
+	"price" : 91999,
+	"img" : "http://dgmariocesar.000webhostapp.com/javascript/img/04.jpg"
+},
+{
+	"id" : "5",
+	"brand" : "LG",
+	"model" : "Q60",
+	"description" : " 6,2 pulgadas. Android Oreo. Procesador de 8 núcleos a 2.0GHz.",
+	"price" : 23999,
+	"img" : "http://dgmariocesar.000webhostapp.com/javascript/img/05.jpg"
+},
+{
+	"id" : "6",
+	"brand" : "LG",
+	"model" : "G8S ThingQ",
+	"description" : "6,2 pulgadas. Android 9 Pie. Procesador de 8 núcleos a 2.0GHz.",
+	"price" : 69999,
+	"img" : "http://dgmariocesar.000webhostapp.com/javascript/img/06.jpg"
+}]
